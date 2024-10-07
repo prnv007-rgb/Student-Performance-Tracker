@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131551045783",
+    "project_id": "student-performance-trac-48d78",
+    "storage_bucket": "student-performance-trac-48d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131551045783:android:c83e7f811b5e5e2052a1d2",
+        "android_client_info": {
+          "package_name": "com.example.user_form_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlIOPMWPNeq5FjPaLDbI3HtFhKX2u_Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

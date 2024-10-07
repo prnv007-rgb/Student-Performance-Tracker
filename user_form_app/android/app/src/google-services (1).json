@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "96072548533",
+    "firebase_url": "https://student-performance-trac-4eaeb-default-rtdb.firebaseio.com",
+    "project_id": "student-performance-trac-4eaeb",
+    "storage_bucket": "student-performance-trac-4eaeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96072548533:android:a3e6dfeb8cf537bb63befc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fxWYiRgD79e0Jx_5Bqax4Htz1WnA5jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96072548533:android:e26f403734970dc463befc",
+        "android_client_info": {
+          "package_name": "com.example.user_form_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fxWYiRgD79e0Jx_5Bqax4Htz1WnA5jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
